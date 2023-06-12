@@ -13,3 +13,7 @@ Projeto feito em Python , nesse repositorio havéra duas versões do conhecido j
 - O usuario tem 6 tentativas por rodada
 - O programa alerta quando repete uma letra, ou digita mais de uma letra por rodada bloqueando o usuário da tentativa
 - Avisa quando o mesmo acerta uma letra
+
+*V2*: E uma versão do jogo da forca mais elaborada feita em OO.
+
+- 
